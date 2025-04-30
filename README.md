@@ -12,15 +12,15 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
   <p align="center">
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/itx-alii-raza/ALI-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/itx-alii-raza/RAJAB_SMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itx-alii-raza/RAJAB_SMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/itx-alii-raza/RAJAB_SMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itx-alii-raza/RAJAB_SMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/itx-alii-raza/RAJAB_SMD/"><img title="Size" src="https://img.shields.io/github/repo-size/itx-alii-raza/RAJAB_SMD?style=flat-square&color=green"></a>
+<a href="https://github.com/itx-alii-raza/RAJAB_SMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+ALI-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ALI+INXIDE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+RAJAB_SMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+RAJAB_SMD+INXIDE" alt="Typing SVG" /></a>
   </p>
   
 --- 
@@ -38,11 +38,11 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/itx-alii-raza/ALI-MD/fork"><img title="RAJAB_SMD" src="https://img.shields.io/badge/FORK-RAJAB%20SMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/itx-alii-raza/RAJAB_SMD/fork"><img title="RAJAB_SMD" src="https://img.shields.io/badge/FORK-RAJAB%20SMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92300xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+`☠️ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92300xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`☠️
 
 
 > **1. PAIR CODE SESSION ID**
@@ -54,7 +54,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://ali-md-72003ad89817.herokuapp.com' target="_blank">
+<a href='https://rajab_md-72003ad89817.herokuapp.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -67,7 +67,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h4 align="">1. HEROKU</h4>
+### <h4 rajabgn="">1. HEROKU</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 
@@ -78,7 +78,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=itx-alii-raza/ALI-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20ALI-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=itx-alii-raza/RAJAB_SMD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20ALI-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">2. TALKDROVE FREE</h4>
@@ -116,7 +116,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-*❄️ Deploy ali-md On Hugging Face For Free !*
+*❄️ Deploy rajab_smd On Hugging Face For Free !*
 
 `Specs :`
 - v2 CPU
@@ -128,7 +128,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/itx-alii-raza/ALI-MD
+1. Go to https://huggingface.co/spaces/itx-alii-raza/RAJAB_SMD
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -159,7 +159,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 ## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ALI࿐➺
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS RAJAB_SMD࿐➺
 
 <p align="">
 <a href='https://wa.me/+923187121807?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
@@ -169,12 +169,12 @@ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHAT
 ## 🪀 WHATSAPP CHANNEL 
 STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY. 💎 RAJAB_SMD 💎
 
-[![WhatsApp Channel](https://whatsapp.com/channel/0029VbAvuvK3mFY4D62V0Q21(https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h)
+[![WhatsApp Channel]https://whatsapp.com/channel/0029VbAvuvK3mFY4D62V0Q21
 
 ## 🪀 WHATSAPP GROUP
 JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Group](https://whatsapp.com/channel/0029VbAvuvK3mFY4D62V0Q21)](https://chat.whatsapp.com/Lx7sDv7jSy0CCTm5AliPdq)
+[![WhatsApp Group]https://whatsapp.com/channel/0029VbAvuvK3mFY4D62V0Q21)
 
  
 
